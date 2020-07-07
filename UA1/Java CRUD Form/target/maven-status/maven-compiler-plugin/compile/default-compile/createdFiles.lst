@@ -1,0 +1,5 @@
+com\mycompany\Excepciones\JAXRSConfiguration.class
+com\mycompany\Excepciones\resources\JavaEE8Resource.class
+config\Usuario.class
+config\Conexion.class
+config\UsuarioBD.class
